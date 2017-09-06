@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "311185059664",
+    "firebase_url": "https://hangout-ea117.firebaseio.com",
+    "project_id": "hangout-ea117",
+    "storage_bucket": "hangout-ea117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311185059664:android:ba2ead034c3cdbb9",
+        "android_client_info": {
+          "package_name": "events.hangout.com.hangout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311185059664-2ecj9d3vg2gnfgmp7emmek96r7fdpc7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "events.hangout.com.hangout",
+            "certificate_hash": "61f588caa7b7c46fcc35cd2b209fb3d665c6a979"
+          }
+        },
+        {
+          "client_id": "311185059664-o0p3sc0u0lbofitqhvdht36el55ro4gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQw2P8lesZWb0a5-CFgyVRE6ATneryzCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311185059664-o0p3sc0u0lbofitqhvdht36el55ro4gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
