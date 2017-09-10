@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">HangOut</string>
     <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">1644170805655577</string>
+    <string name="fb_login_protocol_scheme">fb1644170805655577</string>
+    <string name="lab_login">Cada vez somos más,¿Te unes?</string>
 </resources>
