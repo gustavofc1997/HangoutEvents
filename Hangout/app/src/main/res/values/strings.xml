@@ -4,4 +4,13 @@
     <string name="facebook_app_id">1644170805655577</string>
     <string name="fb_login_protocol_scheme">fb1644170805655577</string>
     <string name="lab_login">Cada vez somos más,¿Te unes?</string>
+    <string name="lab_preferences">¿Que te gusta hacer?</string>
+
+    <string name="lab_play">Jugar</string>
+    <string name="lab_out">Salir</string>
+    <string name="lab_lear">Aprender</string>
+    <string name="lab_exercise">Hacer ejercicio</string>
+    <string name="lab_home">Hacer cosas en casa</string>
+    <string name="lab_help">Ayudar a otros</string>
+    <string name="lab_travel">Viajar</string>
 </resources>

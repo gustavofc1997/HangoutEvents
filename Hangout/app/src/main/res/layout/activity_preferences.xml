@@ -1,8 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:background="@color/bg_purple"
+    android:gravity="center"
+    android:orientation="vertical">
 
-    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lab_preferences"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/text_size_large" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/default_spacing_major"
+        android:orientation="horizontal"
+        android:padding="@dimen/default_spacing_medium"
+        android:weightSum="3">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="@dimen/default_spacing_medium">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/presence_audio_online" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lab_play"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/text_size_medium" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="@dimen/default_spacing_medium">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/presence_audio_online" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lab_out"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/text_size_medium" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="@dimen/default_spacing_medium">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/presence_audio_online" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lab_play"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/text_size_medium" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/default_spacing_major"
+        android:orientation="horizontal"
+        android:padding="@dimen/default_spacing_medium"
+        android:weightSum="3">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="@dimen/default_spacing_medium">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/presence_audio_online" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lab_play"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/text_size_medium" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="@dimen/default_spacing_medium">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/presence_audio_online" />
+
+            <TextView
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:text="@string/lab_play"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/text_size_medium" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="@dimen/default_spacing_medium">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/presence_audio_online" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lab_play"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/text_size_medium" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/default_spacing_major"
+        android:orientation="horizontal"
+        android:padding="@dimen/default_spacing_medium"
+        android:weightSum="3">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="@dimen/default_spacing_medium">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/presence_audio_online" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lab_play"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/text_size_medium" />
+        </LinearLayout>
+
+    </LinearLayout>
+
 
 </LinearLayout>
