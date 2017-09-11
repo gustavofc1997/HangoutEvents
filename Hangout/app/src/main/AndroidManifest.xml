@@ -29,8 +29,8 @@
             android:theme="@style/BaseTheme" />
 
 
-        <activity android:name=".ui.activities.HomeActivity" />
-        <activity android:name=".ui.activities.PreferencesActivity" />
+        <activity android:name=".ui.activities.HomeActivity" android:theme="@style/BaseTheme" />
+        <activity android:name=".ui.activities.PreferencesActivity" android:theme="@style/BaseTheme" />
 
 
         <meta-data

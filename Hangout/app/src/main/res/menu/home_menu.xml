@@ -2,23 +2,24 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/action_theathers"
+        android:id="@+id/id"
         android:enabled="true"
         android:icon="@android:drawable/ic_media_play"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="ifRoom"
+        android:title="" />
     <item
-        android:id="@+id/action_preventa"
         android:enabled="true"
         android:icon="@android:drawable/ic_media_play"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="ifRoom"
+        android:title="" />
     <item
-        android:id="@+id/action_elite"
         android:enabled="true"
         android:icon="@android:drawable/ic_media_play"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="ifRoom"
+        android:title="" />
     <item
-        android:id="@+id/action_report"
         android:enabled="true"
         android:icon="@android:drawable/ic_media_play"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="ifRoom"
+        android:title="" />
 </menu>
