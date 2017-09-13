@@ -7,4 +7,10 @@ package events.hangout.com.hangout.Utils;
 public interface AppConstants {
 
     String ISLOGGED="param_is_logged";
+
+//    preferences settings on register
+    String TABLE_PREFS="user_preferences";
+    String LIKES="user_likes";
+    String NAME="name";
+
 }

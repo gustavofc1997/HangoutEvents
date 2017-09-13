@@ -31,7 +31,6 @@ public class HomeActivity extends AppCompatActivity implements OnNavigationItemS
         ButterKnife.bind(this);
         mBottomNav.setOnNavigationItemSelectedListener(this);
         mBottomNav.setSelectedItemId(R.id.id);
-
     }
 
 
